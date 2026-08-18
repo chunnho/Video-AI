@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python pipeline/*)",
+      "Bash(python3 pipeline/*)",
+      "Bash(source .venv/bin/activate*)",
+      "Bash(ffmpeg:*)",
+      "Bash(ffprobe:*)",
+      "Bash(ls:*)",
+      "Bash(cat jobs/*)",
+      "Read(jobs/**)",
+      "Write(jobs/**)",
+      "Edit(jobs/**)"
+    ]
+  }
+}

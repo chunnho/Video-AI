@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+jobs/*/
+!jobs/job.example.json
+.DS_Store

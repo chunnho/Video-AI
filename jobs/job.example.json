@@ -1,0 +1,33 @@
+{
+  "id": "2026-08-18_seoul-night",
+  "topic": "서울 야경",
+  "model": "veo-3.1-fast-generate-preview",
+  "resolution": "720p",
+  "voice_id": null,
+  "keep_ambience": false,
+  "burn_subs": true,
+  "scenes": [
+    {
+      "idx": 1,
+      "narration": "서울의 밤은 낮보다 뜨겁다.",
+      "veo_prompt": "cinematic vertical drone shot slowly descending over Seoul at night, dense neon signs reflecting on rain-slick streets, warm orange and cyan tones, anamorphic lens flare, smooth camera movement, moody cinematic style, no text, no captions, no dialogue, no voiceover",
+      "status": "pending",
+      "attempts": 0,
+      "video": null,
+      "audio": null,
+      "duration": null,
+      "last_error": null
+    },
+    {
+      "idx": 2,
+      "narration": "골목마다 숨은 이야기가 켜진다.",
+      "veo_prompt": "vertical tracking shot moving through a narrow Seoul alley at night, glowing paper lanterns and small restaurant signs, steam rising from street food stalls, warm orange and cyan tones, shallow depth of field, moody cinematic style, no text, no captions, no dialogue, no voiceover",
+      "status": "pending",
+      "attempts": 0,
+      "video": null,
+      "audio": null,
+      "duration": null,
+      "last_error": null
+    }
+  ]
+}
